@@ -2,7 +2,7 @@
 local config = {}
 
 -- ====== Giới hạn giá ======
-config.PRICE_LIMIT = 10_000_000 -- 10M
+config.PRICE_LIMIT = 1 -- 10M
 
 -- ====== Target Names có ưu tiên ======
 config.targetNames = {
