@@ -2,7 +2,7 @@
 local config = {}
 
 -- ====== Giới hạn giá ======
-config.PRICE_LIMIT = 100_000_000
+config.PRICE_LIMIT = 10_000_000
 
 config.WEBHOOK = "https://discord.com/api/webhooks/1410618016487444490/5Z5XqXUsfd7lFbxgXcCMMQqJDU_iGPc-h0AjLA09mqz-DRaIYpKP7aMVQhM6lm9oIgTv"
 
