@@ -9,11 +9,11 @@ config.WEBHOOK = "https://discord.com/api/webhooks/1410618016487444490/5Z5XqXUsf
 -- ====== Target Names có ưu tiên ======
 config.targetNames = {
     {name = "Strawberry Elephant", priority = 1},
-    {name = "Los Bros", priority = 2},
+    {name = "Dragon Cannelloni", priority = 2},
     {name = "Spaghetti Tualetti", priority = 3},
     {name = "Garama and Madundung", priority = 4},
     {name = "Los Hotspotsitos", priority = 5},
-    {name = "Dragon Cannelloni", priority = 6},
+    {name = "Los Bros", priority = 6},
     {name = "Ketchuru and Musturu", priority = 7},
     {name = "La Supreme Combinasion", priority = 8},
     {name = "Ketupat Kepat", priority = 9},
@@ -27,8 +27,8 @@ config.targetNames = {
     {name = "Los Lucky Blocks", priority = 17},
     {name = "Secret Lucky Block", priority = 18},
     {name = "Admin Lucky Block", priority = 19},
-    {name = "Taco Lucky Block", priority = 20},
-    {name = "67", priority = 21},
+    {name = "67", priority = 20},
+    {name = "Taco Lucky Block", priority = 21},
 }
 
 config.Displayname = { "Sweet", "phatle8117", "PhuBeo" }
