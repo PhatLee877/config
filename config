@@ -4,6 +4,9 @@ local config = {}
 -- ====== Giới hạn giá ======
 config.PRICE_LIMIT = 10_000_000 -- 10M
 
+config.WEBHOOK = "https://discord.com/api/webhooks/1410618016487444490/5Z5XqXUsfd7lFbxgXcCMMQqJDU_iGPc-h0AjLA09mqz-DRaIYpKP7aMVQhM6lm9oIgTv"
+
+
 -- ====== Target Names có ưu tiên ======
 config.targetNames = {
     {name = "Strawberry Elephant", priority = 1},
