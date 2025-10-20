@@ -13,25 +13,26 @@ config.targetNames = {
     {name = "Spaghetti Tualetti", priority = 3},
     {name = "Garama and Madundung", priority = 4},
     {name = "Los Hotspotsitos", priority = 5},
-    {name = "Los Bros", priority = 6},
-    {name = "Ketchuru and Musturu", priority = 7},
-    {name = "La Supreme Combinasion", priority = 8},
-    {name = "Ketupat Kepat", priority = 9},
-    {name = "Esok Sekolah", priority = 10},
-    {name = "Los Nooo My Hotspotsitos", priority = 11},
-    {name = "Nooo My Hotspot", priority = 12},
-    {name = "Nuclearo Dinossauro", priority = 13},
-    {name = "La Grande Combinasion", priority = 14},
-    {name = "Los Combinasionas", priority = 15},
-    {name = "Tacorita Bicicleta", priority = 16},
-    {name = "Los Lucky Blocks", priority = 17},
-    {name = "Secret Lucky Block", priority = 18},
-    {name = "Admin Lucky Block", priority = 19},
-    {name = "Taco Lucky Block", priority = 20},
-    {name = "67", priority = 21},
+    {name = "La Secret Combinasion", priority = 6},
+    {name = "Los Bros", priority = 7},
+    {name = "Ketchuru and Musturu", priority = 8},
+    {name = "La Supreme Combinasion", priority = 9},
+    {name = "Ketupat Kepat", priority = 10},
+    {name = "Esok Sekolah", priority = 11},
+    {name = "Los Nooo My Hotspotsitos", priority = 12},
+    {name = "Nooo My Hotspot", priority = 13},
+    {name = "Nuclearo Dinossauro", priority = 14},
+    {name = "La Grande Combinasion", priority = 15},
+    {name = "Los Combinasionas", priority = 16},
+    {name = "Tacorita Bicicleta", priority = 17},
+    {name = "Los Lucky Blocks", priority = 18},
+    {name = "Secret Lucky Block", priority = 19},
+    {name = "Admin Lucky Block", priority = 20},
+    {name = "Taco Lucky Block", priority = 21},
+    {name = "67", priority = 22},
 }
 
-config.Displayname = { "Sweet", "phatle8117" }
+config.Displayname = { "Sweet", "phatle8117", "PhuBeo" }
 
 config.Receiver = {"phatle8117", "ConCuTiHon02", "candyblossom1243", "bomaylatip", "banpetuytin1111", " banpetuytin11114", "banpetuytin11115", " banpetuytin111140"}
 
