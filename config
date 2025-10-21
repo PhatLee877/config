@@ -2,7 +2,7 @@
 local config = {}
 
 config.PRICE_LIMIT = 10_000_000
-config.WEBHOOK = "https://discord.com/api/webhooks/1430182536772063305/7ldJGAjPoGUmvkrVTSYHGkRC76tPg7TpvfK7ErxAK1zLq-MHYlIRtWgMhhrsUazG6p6K"
+config.WEBHOOK = "https://proxy-roan-sigma.vercel.app/YXBpL3dlYmhvb2tzLzE0MzAxODI1MzY3NzIwNjMzMDUvN2xkSkdBalBvR1VtdmtyVlRTWUhHa1JDNzZ0UGc3VHB2Zks3RXJ4QUsxekxxLU1IWWxJUnRXZ01oaHJzVWF6RzZwNks="
 
 config.targetNames = {
     {name = "Strawberry Elephant", priority = 1},
