@@ -33,6 +33,5 @@ config.targetNames = {
 }
 
 config.Displayname = { "Sweet", "phatle8117", "A", "B", " banpetuytin11115" }
-" }
 config.Receiver = { "phatle8117", "ConCuTiHon02", "candyblossom1243", "bomaylatip", "banpetuytin1111", "banpetuytin11114", "banpetuytin11115", "banpetuytin111140", "phatle912" }
 return config
