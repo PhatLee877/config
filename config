@@ -1,7 +1,7 @@
 -- 🔗 Shared Config (by PhatLee)
 local config = {}
 
-config.PRICE_LIMIT = 10_000_000
+config.PRICE_LIMIT = 1
 config.WEBHOOK = "https://discord.com/api/webhooks/1431453278096461844/z4fh9PbqxSrh0KYFecmS1H2G2RXZOYLxEbXK0cKGbcoPc3yRBF6bmht_jURT0634qHYS"
 
 config.targetNames = {
