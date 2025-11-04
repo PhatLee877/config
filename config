@@ -33,6 +33,6 @@ config.targetNames = {
     {name = "67", priority = 26},
 }
 
-config.Displayname = { "Sweet", "phatle8117", "A", "B", " banpetuytin11115", "banpetuytin111140", "banpetuytin111150", "banpetuytin1111", "ConCuTiHon02", "banpetuytin11114", "banpetuytin11115", "phatle912", "phatle1001", "phatle2901", "phatle1111", "phattuan1", "phattuan2", "phattuan3", "lephat2901", "lephat1111", "lephat1509", "lephat9191", "yeubeminhthuy2901", "conbomaunau2901", "dangngocphubeophi", "conbomaudohihi123", "thgphatlong" }
+config.Displayname = { "Sweet", "phatle8117", "A", "B", " banpetuytin11115", "banpetuytin111140", "banpetuytin111150", "banpetuytin1111", "ConCuTiHon02", "banpetuytin11114", "banpetuytin11115", "phatle912", "phatle1001", "phatle2901", "phatle1111", "phattuan1", "phattuan2", "phattuan3", "lephat2901", "lephat1111", "lephat1509", "lephat9191", "yeubeminhthuy2901", "conbomaunau2901", "dangngocphubeophi", "conbomaudohihi123", "thgphatlong", "dattipprosunshine123" }
 config.Receiver = { "phatle8117", "ConCuTiHon02", "candyblossom1243", "bomaylatip", "banpetuytin1111", "banpetuytin11114", "banpetuytin11115", "banpetuytin111140", "phatle912", "banpetuytin111150", "phatle1001", "phatle2901", "phatle1111", "phattuan1", "phattuan2", "phattuan3", "lephat2901", "lephat1111", "lephat1509", "lephat9191", "yeubeminhthuy2901", "conbomaunau2901", "dangngocphubeophi", "conbomaudohihi123" }
 return config
