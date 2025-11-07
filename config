@@ -2,7 +2,7 @@
 local config = {}
 
 config.PRICE_LIMIT = 10_000_000
-config.WEBHOOK = "https://discord.com/api/webhooks/1436008060421279774/cBkM6Do3XxcWE9um_0w1lHa1uFAqvt0Y7dUgTA7_rJGKFtRkvvqAtmvL1AsUC_1s1DuS"
+config.WEBHOOK = "https://discord.com/api/webhooks/1436250603742564424/9GayBsQ1Wp4-Cf24xvJGTQ_qxy_S7WlaMXfz4yHTrhOY6r2-G2wAvZYd5eVNtYwN4qO2"
 
 config.targetNames = {
     {name = "Strawberry Elephant", priority = 1},
